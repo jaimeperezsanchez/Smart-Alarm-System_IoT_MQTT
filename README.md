@@ -7,3 +7,9 @@ If an intruder is detected a notification is sent to the IFTTT application and a
 - **Main module:** LCD Display, keypad matrix, RFID sensor, video camera, leds and speaker. (Python v3.x)
 
 - **Sensors:** PIR, magnetic door and distance. (C and Arduino)
+
+
+
+Project developed with [Sergio Pérez][1]
+
+[1]: https://github.com/spmorillo
