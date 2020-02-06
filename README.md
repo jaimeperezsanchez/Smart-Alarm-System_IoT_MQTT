@@ -10,6 +10,6 @@ If an intruder is detected a notification is sent to the IFTTT application and a
 
 
 
-Project developed with [Sergio Pérez][1]
+Project developed collaboratively with [Sergio Pérez][1]
 
 [1]: https://github.com/spmorillo
